@@ -1,2 +1,2 @@
-
-Mon-21-Aug Started Andrew Ng's Deep Learning class.
+My implmentations of in class code work.
+I have the programming exercises in a separate folder.
